@@ -69,7 +69,7 @@ function restartGame() {
   gameOverText.classList.add("hidden");
   restartButton.classList.add("hidden");
 
-  // Reseta animação do obstáculo
+  // Reseta animação do obstáculo do game
   obstacle.style.animation = "none";
   setTimeout(() => {
     obstacle.style.animation = "moveObstacle 2s linear infinite";
