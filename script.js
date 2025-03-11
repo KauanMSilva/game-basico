@@ -91,3 +91,5 @@ setInterval(() => {
     checkCollision();
   }
 }, 50);
+
+// play
