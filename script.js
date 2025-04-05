@@ -1,5 +1,3 @@
-
-
 const player = document.getElementById("player");
 const obstacle = document.getElementById("obstacle");
 const gameOverText = document.getElementById("game-over");
